@@ -25,6 +25,8 @@ The endless art gallery (Makarov’s version 4 - With image loading and rearrang
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ
 
+lekhamironov92@yandex.ru
+
 # ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ ЗВУКА
 
 https://mashagpt.ru/chat/chatgpt-5-mini/2730470
