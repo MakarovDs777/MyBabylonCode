@@ -18,3 +18,7 @@ The endless art gallery of the Backrooms (Makarov’s version 2 - With an input 
 https://playground.babylonjs.com/#9BAK66
 
 The endless art gallery of the Backrooms (Makarov’s version 3 - With an auto-switch button, and auto-switch ranges) | Babylon.js Playground
+
+https://playground.babylonjs.com/#9YK2AG
+
+The endless art gallery (Makarov’s version 4 - With image loading and rearranging all pixels without repetition) | Babylon.js Playground
