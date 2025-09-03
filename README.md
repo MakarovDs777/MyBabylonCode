@@ -23,7 +23,14 @@ https://playground.babylonjs.com/#9YK2AG
 
 The endless art gallery (Makarov’s version 4 - With image loading and rearranging all pixels without repetition) | Babylon.js Playground
 
-# НЕЗАКОНЧЕНЫЕ ТЕМЫ
+
+# НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
+
+lekhamironov92@yandex.ru
+
+https://mashagpt.ru/chat/chatgpt-5-mini/3137303
+
+# НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
 
 lekhamironov92@yandex.ru
 
