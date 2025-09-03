@@ -25,6 +25,10 @@ The endless art gallery (Makarov’s version 4 - With image loading and rearrang
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ
 
-# ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ
+# ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ ЗВУКА
 
 https://mashagpt.ru/chat/chatgpt-5-mini/2730470
+
+# ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ КАРТИНОК (ВСЕПАТЕРНАЛИЗАЦИЯ)
+
+https://mashagpt.ru/chat/chatgpt-5-mini/2708291
