@@ -27,9 +27,12 @@ https://playground.babylonjs.com/#9YK2AG#1
 
 The endless art gallery (Makarov’s version 4 - With image loading and rearranging all pixels without repetition, and scaling the plane to fit the size of the image) | Babylon.js Playground
 
-https://playground.babylonjs.com/#02RSGB
+https://playground.babylonjs.com/#02RSGB#1
 
 The endless art gallery (Makarov’s version 5 - When uploading an image, there is a step-by-step pixel replacement in it) | Babylon.js Playground
+
+
+
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
 
