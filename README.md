@@ -22,3 +22,7 @@ The endless art gallery of the Backrooms (Makarov’s version 3 - With an auto-s
 https://playground.babylonjs.com/#9YK2AG
 
 The endless art gallery (Makarov’s version 4 - With image loading and rearranging all pixels without repetition) | Babylon.js Playground
+
+# ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ
+
+https://mashagpt.ru/chat/chatgpt-5-mini/2730470
