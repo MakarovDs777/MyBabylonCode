@@ -38,6 +38,8 @@ The endless art gallery (Makarov’s version 5 - When uploading an image, there 
 
 lekhamironov92@yandex.ru
 
+Псевдоволуметрика 
+
 https://mashagpt.ru/chat/chatgpt-5-mini/3137303
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
