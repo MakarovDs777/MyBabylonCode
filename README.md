@@ -69,7 +69,7 @@ https://forum.babylonjs.com/t/delaunay-triangulation-3d-on-babylon-js/60206
 
 Delaunay triangulation 3D (Version 4 - Exploding meshes of the Delaunay triangulation) | Babylon.js Playground
 
-https://playground.babylonjs.com/#O6V93R
+https://playground.babylonjs.com/#O6V93R#1
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
 
