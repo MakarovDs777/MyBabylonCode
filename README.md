@@ -47,6 +47,10 @@ Lloyd relaxation (version 17 - Voronoi 3D grid cube version) | Babylon.js Playgr
 
 https://playground.babylonjs.com/#0OSSNH
 
+Lloyd relaxation (version 18 - Voronoi 3D polylines cube version) | Babylon.js Playground
+
+https://playground.babylonjs.com/#AE7E7P
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
 
 lekhamironov92@yandex.ru
