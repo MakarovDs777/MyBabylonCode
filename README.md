@@ -31,6 +31,10 @@ https://playground.babylonjs.com/#02RSGB#1
 
 The endless art gallery (Makarov’s version 5 - When uploading an image, there is a step-by-step pixel replacement in it) | Babylon.js Playground
 
+https://playground.babylonjs.com/#3E3EDL
+
+The endless art gallery (Makarov’s version 6 - Endless procedural image generation) | Babylon.js Playground
+
 # Lloyd relaxation on Babylon.js! - Tutorials and tips - Babylon.js
 
 https://forum.babylonjs.com/t/lloyd-relaxation-on-babylon-js/60207
