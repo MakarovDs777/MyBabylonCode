@@ -55,6 +55,10 @@ Lloyd relaxation (version 18 - Voronoi 3D polylines cube version) | Babylon.js P
 
 https://playground.babylonjs.com/#AE7E7P
 
+Lloyd relaxation (version 19 - Voronoi 3D polylines endless XZ version) | Babylon.js Playground
+
+https://playground.babylonjs.com/#SRKOHY
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
 
 lekhamironov92@yandex.ru
