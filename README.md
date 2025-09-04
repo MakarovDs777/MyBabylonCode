@@ -33,6 +33,8 @@ The endless art gallery (Makarov’s version 5 - When uploading an image, there 
 
 https://playground.babylonjs.com/#3E3EDL
 
+Copy and paste this code into the JS tab and it will work.
+
 The endless art gallery (Makarov’s version 6 - Endless procedural image generation) | Babylon.js Playground
 
 # Lloyd relaxation on Babylon.js! - Tutorials and tips - Babylon.js
