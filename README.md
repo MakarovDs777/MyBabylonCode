@@ -37,7 +37,11 @@ https://forum.babylonjs.com/t/lloyd-relaxation-on-babylon-js/60207
 
 Lloyd relaxation (version 15 - Voronoi 2D grid) | Babylon.js Playground
 
-https://forum.babylonjs.com/t/lloyd-relaxation-on-babylon-js/60207
+https://playground.babylonjs.com/#OMZL89
+
+Lloyd relaxation (version 16 - Voronoi 3D grid) | Babylon.js Playground
+
+https://playground.babylonjs.com/#4ITONL#1
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
 
