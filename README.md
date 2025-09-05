@@ -1,5 +1,12 @@
 # MyBabylonCode
 
+# 3D Texture viewer - Demos and projects - Babylon.js
+
+https://forum.babylonjs.com/t/3d-texture-viewer/60245/7
+
+3D texture viewer with 1 plane Y (Version 16 - Continuation of version 13 but the plane is horizontal, not vertical) | Babylon.js Playground
+
+https://playground.babylonjs.com/#E8JMRF
 
 # Endless procedural image generation on Babylon.js! 
 
