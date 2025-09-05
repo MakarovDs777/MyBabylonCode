@@ -79,6 +79,10 @@ Lloyd relaxation (version 20 - Voronoi 3D polylines endless XYZ version) | Babyl
 
 https://playground.babylonjs.com/#HAL1E9
 
+Lloyd relaxation (version 21 - Voronoi Pattern via Polar Transformation 3D) | Babylon.js Playground
+
+https://playground.babylonjs.com/#J2Y5R3
+
 # Delaunay triangulation 3D on Babylon.js! 
 
 https://forum.babylonjs.com/t/delaunay-triangulation-3d-on-babylon-js/60206
