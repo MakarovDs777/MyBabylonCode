@@ -8,7 +8,7 @@ https://playground.babylonjs.com/#2UCAPU
 
 Makarov's Kolcetron (Version 1 - Procedural Number Generator) | Babylon.js Playground
 
-https://playground.babylonjs.com/#BDR742
+https://playground.babylonjs.com/#BDR742#1
 
 # Array of objects in a circle as in blender on babylon.js! 
 
