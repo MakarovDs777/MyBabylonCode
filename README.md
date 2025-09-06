@@ -10,6 +10,10 @@ Makarov's Kolcetron (Version 1 - Procedural Number Generator) | Babylon.js Playg
 
 https://playground.babylonjs.com/#BDR742#1
 
+Makarov's Procedural Number Generator (Version 2 - Sphere version) | Babylon.js Playground
+
+https://playground.babylonjs.com/#2Z3ODE
+
 # Array of objects in a circle as in blender on babylon.js! 
 
 https://forum.babylonjs.com/t/array-of-objects-in-a-circle-as-in-blender-on-babylon-js/60224
