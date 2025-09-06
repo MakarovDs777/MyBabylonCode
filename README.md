@@ -10,9 +10,9 @@ https://playground.babylonjs.com/#2UCAPU
 
 https://forum.babylonjs.com/t/array-of-objects-in-a-circle-as-in-blender-on-babylon-js/60224
 
-https://playground.babylonjs.com/#0BUJSH
-
 array in a circle as in blender on babylon.js with the loading of the OBJ model | Babylon.js Playground
+
+https://playground.babylonjs.com/#0BUJSH
 
 # Homer’s Endless Dream
 
