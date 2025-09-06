@@ -6,6 +6,14 @@ Makarov's Kolcetron (Version 0 - Lazer gun) | Babylon.js Playground
 
 https://playground.babylonjs.com/#2UCAPU
 
+# Array of objects in a circle as in blender on babylon.js! 
+
+https://forum.babylonjs.com/t/array-of-objects-in-a-circle-as-in-blender-on-babylon-js/60224
+
+https://playground.babylonjs.com/#0BUJSH
+
+array in a circle as in blender on babylon.js with the loading of the OBJ model | Babylon.js Playground
+
 # Homer’s Endless Dream
 
 https://forum.babylonjs.com/t/homers-endless-dream-on-babylon-js/53964
