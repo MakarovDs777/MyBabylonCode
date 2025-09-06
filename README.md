@@ -6,6 +6,10 @@ Makarov's Kolcetron (Version 0 - Lazer gun) | Babylon.js Playground
 
 https://playground.babylonjs.com/#2UCAPU
 
+Makarov's Kolcetron (Version 1 - Procedural Number Generator) | Babylon.js Playground
+
+https://playground.babylonjs.com/#BDR742
+
 # Array of objects in a circle as in blender on babylon.js! 
 
 https://forum.babylonjs.com/t/array-of-objects-in-a-circle-as-in-blender-on-babylon-js/60224
