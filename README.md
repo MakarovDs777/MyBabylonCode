@@ -1,5 +1,10 @@
 # MyBabylonCode
 
+# ПРОЦЕДУРНЫЙ ГЕНЕРАТОР ЧИСЕЛ
+
+Makarov's Kolcetron (Version 0 - Lazer gun) | Babylon.js Playground
+
+https://playground.babylonjs.com/#2UCAPU
 
 # Homer’s Endless Dream
 
@@ -118,7 +123,3 @@ https://mashagpt.ru/chat/chatgpt-5-mini/3117408
 # ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ КАРТИНОК (ВСЕПАТЕРНАЛИЗАЦИЯ)
 
 https://mashagpt.ru/chat/chatgpt-5-mini/2708291
-
-# ПРОЦЕДУРНЫЙ ГЕНЕРАТОР ЧИСЕЛ
-
-
