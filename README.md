@@ -16,7 +16,7 @@ https://playground.babylonjs.com/#2Z3ODE#5
 
 Makarov's Procedural Number Generator (Version 3 - Creative mode) | Babylon.js Playground
 
-https://playground.babylonjs.com/#285NHB#1
+https://playground.babylonjs.com/#285NHB#4
 
 Makarov's Procedural Number Generator (Version 4 - A laser cannon with variable attenuation, and a permanent laser) | Babylon.js Playground
 
