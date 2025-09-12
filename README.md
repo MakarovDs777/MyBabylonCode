@@ -128,7 +128,7 @@ Delaunay triangulation 3D (Version 5 - Exploding Delaunay triangulation meshes i
 
 https://playground.babylonjs.com/#JIVZ0G
 
-# Pseudovolumtrica on Babylon.js
+# Pseudovolumetrica on Babylon.js
 
 Pseudovolumtrica (Version 0 - polylines based on the black contours of the image) | Babylon.js Playground
 
