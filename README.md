@@ -130,7 +130,7 @@ https://forum.babylonjs.com/t/an-endless-procedurally-generated-carpet-of-pictur
 
 Endless procedural image generation (version 10 - With random overlapping of different images in the same plane) | Babylon.js Playground
 
-https://playground.babylonjs.com/#N2PZTX
+https://playground.babylonjs.com/#N2PZTX#1
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
 
