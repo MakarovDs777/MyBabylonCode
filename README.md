@@ -128,6 +128,16 @@ Delaunay triangulation 3D (Version 5 - Exploding Delaunay triangulation meshes i
 
 https://playground.babylonjs.com/#JIVZ0G
 
+# Pseudovolumtrica on Babylon.js
+
+Pseudovolumtrica (Version 0 - polylines based on the black contours of the image) | Babylon.js Playground
+
+https://playground.babylonjs.com/#8PA0YH
+
+Pseudovolumtrica (Version 1 - 3D texture viewer with 1 plane X) | Babylon.js Playground
+
+https://playground.babylonjs.com/#ROX664
+
 # An endless procedurally generated carpet of pictures on Babylon.js!
 
 https://forum.babylonjs.com/t/an-endless-procedurally-generated-carpet-of-pictures-on-babylon-js/58287
