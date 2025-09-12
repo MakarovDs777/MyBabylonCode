@@ -124,6 +124,14 @@ Delaunay triangulation 3D (Version 5 - Exploding Delaunay triangulation meshes i
 
 https://playground.babylonjs.com/#JIVZ0G
 
+# An endless procedurally generated carpet of pictures on Babylon.js!
+
+https://forum.babylonjs.com/t/an-endless-procedurally-generated-carpet-of-pictures-on-babylon-js/58287
+
+Endless procedural image generation (version 10 - With random overlapping of different images in the same plane) | Babylon.js Playground
+
+https://playground.babylonjs.com/#N2PZTX
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
 
 lekhamironov92@yandex.ru
