@@ -146,6 +146,19 @@ Endless procedural image generation (version 10 - With random overlapping of dif
 
 https://playground.babylonjs.com/#N2PZTX#1
 
+# Endless backrooms in Babylon.js! - Tutorials and tips - Babylon.js
+
+https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544
+
+Backrooms in Babylon.js (Optional version - Multi-storey multibiome generation, but only at -Y height in depth) | Babylon.js Playground
+
+https://playground.babylonjs.com/#V0MU79
+
+Backrooms in Babylon.js (Optional version - Trap) | Babylon.js Playground
+
+https://playground.babylonjs.com/#GU5ZOU
+
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
 
 lekhamironov92@yandex.ru
