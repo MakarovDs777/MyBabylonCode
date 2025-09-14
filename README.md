@@ -168,8 +168,7 @@ Backrooms in Babylon.js (Optional version - Trap) | Babylon.js Playground
 
 https://playground.babylonjs.com/#GU5ZOU
 
-
-# НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
+# НЕЗАКОНЧЕНЫЕ ТЕМЫ PYTHON
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
 
