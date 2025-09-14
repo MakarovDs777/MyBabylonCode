@@ -130,6 +130,12 @@ https://playground.babylonjs.com/#JIVZ0G
 
 # Pseudovolumetrica on Babylon.js
 
+lekhamironov92@yandex.ru
+
+Псевдоволуметрика 
+
+https://mashagpt.ru/chat/chatgpt-5-mini/3137303
+
 Pseudovolumtrica (Version 0 - polylines based on the black contours of the image) | Babylon.js Playground
 
 https://playground.babylonjs.com/#8PA0YH
@@ -164,12 +170,6 @@ https://playground.babylonjs.com/#GU5ZOU
 
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ babylon.js
-
-lekhamironov92@yandex.ru
-
-Псевдоволуметрика 
-
-https://mashagpt.ru/chat/chatgpt-5-mini/3137303
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
 
