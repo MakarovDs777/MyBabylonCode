@@ -158,7 +158,7 @@ https://playground.babylonjs.com/#1BYWD6
 
 Pseudovolumetrica (Version 5 - A box of white spheres) | Babylon.js Playground
 
-https://playground.babylonjs.com/#M19LBN
+https://playground.babylonjs.com/#M19LBN#1
 
 # An endless procedurally generated carpet of pictures on Babylon.js!
 
