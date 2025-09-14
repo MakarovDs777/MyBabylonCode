@@ -148,6 +148,10 @@ Pseudovolumetrica (Version 2 - A box of polylines) | Babylon.js Playground
 
 https://playground.babylonjs.com/#QNEHWK#1
 
+Pseudovolumetrica (Version 3 - White tubes based on the black contours of the image viewer 3D) | Babylon.js Playground
+
+https://playground.babylonjs.com/#Y7RY6X
+
 # An endless procedurally generated carpet of pictures on Babylon.js!
 
 https://forum.babylonjs.com/t/an-endless-procedurally-generated-carpet-of-pictures-on-babylon-js/58287
