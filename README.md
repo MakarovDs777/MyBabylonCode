@@ -146,7 +146,7 @@ https://playground.babylonjs.com/#ROX664
 
 Pseudovolumetrica (Version 2 - A box of polylines) | Babylon.js Playground
 
-https://playground.babylonjs.com/#QNEHWK
+https://playground.babylonjs.com/#QNEHWK#1
 
 # An endless procedurally generated carpet of pictures on Babylon.js!
 
