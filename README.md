@@ -138,6 +138,10 @@ Pseudovolumtrica (Version 1 - 3D texture viewer with 1 plane X) | Babylon.js Pla
 
 https://playground.babylonjs.com/#ROX664
 
+Pseudovolumetrica (Version 2 - A box of polylines) | Babylon.js Playground
+
+https://playground.babylonjs.com/#QNEHWK
+
 # An endless procedurally generated carpet of pictures on Babylon.js!
 
 https://forum.babylonjs.com/t/an-endless-procedurally-generated-carpet-of-pictures-on-babylon-js/58287
