@@ -156,6 +156,10 @@ Pseudovolumetrica (Version 4 - A box of white tubes) | Babylon.js Playground
 
 https://playground.babylonjs.com/#1BYWD6
 
+Pseudovolumetrica (Version 5 - A box of white spheres) | Babylon.js Playground
+
+https://playground.babylonjs.com/#M19LBN
+
 # An endless procedurally generated carpet of pictures on Babylon.js!
 
 https://forum.babylonjs.com/t/an-endless-procedurally-generated-carpet-of-pictures-on-babylon-js/58287
