@@ -152,6 +152,10 @@ Pseudovolumetrica (Version 3 - White tubes based on the black contours of the im
 
 https://playground.babylonjs.com/#Y7RY6X
 
+Pseudovolumetrica (Version 4 - A box of white tubes) | Babylon.js Playground
+
+https://playground.babylonjs.com/#1BYWD6
+
 # An endless procedurally generated carpet of pictures on Babylon.js!
 
 https://forum.babylonjs.com/t/an-endless-procedurally-generated-carpet-of-pictures-on-babylon-js/58287
