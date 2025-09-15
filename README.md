@@ -186,9 +186,13 @@ https://playground.babylonjs.com/#GU5ZOU
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ PYTHON
 
-# НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
-
 lekhamironov92@yandex.ru
+
+# ВСЕПАТЕРННЫ ДАННЫХ
+
+https://mashagpt.ru/chat/chatgpt-5-mini/2165904
+
+# НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
 
 # ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ ЗВУКА
 
