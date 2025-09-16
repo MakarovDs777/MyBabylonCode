@@ -194,6 +194,8 @@ https://mashagpt.ru/chat/chatgpt-5-mini/2165904
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
 
+# Генерация кадров 
+
 # ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ ЗВУКА
 
 https://mashagpt.ru/chat/chatgpt-5-mini/2730470
@@ -205,3 +207,5 @@ https://mashagpt.ru/chat/chatgpt-5-mini/3117408
 # ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ КАРТИНОК (ВСЕПАТЕРНАЛИЗАЦИЯ)
 
 https://mashagpt.ru/chat/chatgpt-5-mini/2708291
+
+https://github.com/MakarovDs777/Endless-EVP-spaces/blob/main/EVPS%20Statistics/Superstatistics.py
