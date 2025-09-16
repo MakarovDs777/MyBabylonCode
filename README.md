@@ -194,7 +194,9 @@ https://mashagpt.ru/chat/chatgpt-5-mini/2165904
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
 
-# Генерация кадров 
+# ГЕНЕРАЦИЯ КАДРОВ
+
+https://mashagpt.ru/chat/chatgpt-5-mini/2169177
 
 # ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ ЗВУКА
 
