@@ -194,6 +194,10 @@ https://mashagpt.ru/chat/chatgpt-5-mini/2165904
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ ЭГФ
 
+# ПРЕВРАТИТЬ ЧИСЛА JACKBACK В ТЕКСТ ПРИЛОЖЕНИЕ
+
+https://mashagpt.ru/chat/chatgpt-5-mini/3186982
+
 # ГЕНЕРАЦИЯ КАДРОВ
 
 https://mashagpt.ru/chat/chatgpt-5-mini/2169177
