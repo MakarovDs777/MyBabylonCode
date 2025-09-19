@@ -184,6 +184,12 @@ Backrooms in Babylon.js (Optional version - Trap) | Babylon.js Playground
 
 https://playground.babylonjs.com/#GU5ZOU
 
+# Quantum foam on Babylon.js! - Tutorials and tips - Babylon.js
+
+Quantum foam (version 16 - Particle Foam Systems (PFS)) | Babylon.js Playground
+
+https://playground.babylonjs.com/#NDQ2I4
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ PYTHON
 
 lekhamironov92@yandex.ru
