@@ -1,5 +1,11 @@
 # MyBabylonCode
 
+# Creating architecture from a picture! Turn an image into an structure (Makarov version) 
+
+Creating architecture 3D from a texture viewer (Makarov version 4 - The contour line) | Babylon.js Playground
+
+https://playground.babylonjs.com/#PBL27V
+
 # ПРОЦЕДУРНЫЙ ГЕНЕРАТОР ЧИСЕЛ
 
 Makarov's Kolcetron (Version 0 - Lazer gun) | Babylon.js Playground
