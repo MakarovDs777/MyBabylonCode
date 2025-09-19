@@ -6,6 +6,10 @@ Creating architecture 3D from a texture viewer (Makarov version 4 - The contour 
 
 https://playground.babylonjs.com/#PBL27V
 
+Creating architecture 3D from a texture viewer (Makarov version 5 - Placing vertex points on polylines of a line) | Babylon.js Playground
+
+https://playground.babylonjs.com/#1UPUZK
+
 # ПРОЦЕДУРНЫЙ ГЕНЕРАТОР ЧИСЕЛ
 
 Makarov's Kolcetron (Version 0 - Lazer gun) | Babylon.js Playground
