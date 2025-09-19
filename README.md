@@ -190,6 +190,10 @@ Quantum foam (version 16 - Particle Foam Systems (PFS)) | Babylon.js Playground
 
 https://playground.babylonjs.com/#NDQ2I4
 
+Quantum foam (version 17 - Version 12 but balls, not a ragged mesh from the isurface) | Babylon.js Playground
+
+https://playground.babylonjs.com/#VTGJ93
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ PYTHON
 
 lekhamironov92@yandex.ru
