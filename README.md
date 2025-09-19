@@ -10,6 +10,10 @@ Creating architecture 3D from a texture viewer (Makarov version 5 - Placing vert
 
 https://playground.babylonjs.com/#1UPUZK
 
+Creating architecture 3D from a texture viewer (Makarov version 6 - Without a plane) | Babylon.js Playground
+
+https://playground.babylonjs.com/#GR4KF7
+
 # ПРОЦЕДУРНЫЙ ГЕНЕРАТОР ЧИСЕЛ
 
 Makarov's Kolcetron (Version 0 - Lazer gun) | Babylon.js Playground
