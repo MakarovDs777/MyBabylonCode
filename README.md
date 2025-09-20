@@ -18,6 +18,10 @@ Creating architecture 3D from a texture viewer(Makarov version 7-3D structure ba
 
 https://playground.babylonjs.com/#VDEK15
 
+Creating architecture 3D from a texture viewer (Makarov version 8-Different images with contours are connected to each) | Babylon.js Playground
+
+https://playground.babylonjs.com/#WZEQKE
+
 # ПРОЦЕДУРНЫЙ ГЕНЕРАТОР ЧИСЕЛ
 
 Makarov's Kolcetron (Version 0 - Lazer gun) | Babylon.js Playground
