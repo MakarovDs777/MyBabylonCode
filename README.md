@@ -228,6 +228,10 @@ Quantum foam (version 18 - 2D version) | Babylon.js Playground
 
 https://playground.babylonjs.com/#MAZNI1
 
+Quantum foam (version 19 - Contours based on procedural drawings of quantum foam) | Babylon.js Playground
+
+https://playground.babylonjs.com/#1ZXF3J
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ PYTHON
 
 lekhamironov92@yandex.ru
