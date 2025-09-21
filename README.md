@@ -244,7 +244,7 @@ https://playground.babylonjs.com/#H9BI2A
 
 Uniform placement of planes in a cube (Version 0) | Babylon.js Playground
 
-https://playground.babylonjs.com/#DY93OO
+https://playground.babylonjs.com/#DY93OO#1
 
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ PYTHON
 
