@@ -240,6 +240,10 @@ Quantum foam (version 20 - 2D version with contours) | Babylon.js Playground
 
 https://playground.babylonjs.com/#H9BI2A
 
+Quantum foam (version 21 - Quantum foam chunk + Plane box) | Babylon.js Playground
+
+https://playground.babylonjs.com/#ZH8ITM
+
 # Uniform placement of planes in a cube
 
 Uniform placement of planes in a cube (Version 0) | Babylon.js Playground
