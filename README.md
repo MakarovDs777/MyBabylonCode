@@ -236,6 +236,10 @@ Quantum foam (version 19 - Contours based on procedural drawings of quantum foam
 
 https://playground.babylonjs.com/#1ZXF3J
 
+Quantum foam (version 20 - 2D version with contours) | Babylon.js Playground
+
+https://playground.babylonjs.com/#H9BI2A
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ PYTHON
 
 lekhamironov92@yandex.ru
