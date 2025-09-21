@@ -240,6 +240,12 @@ Quantum foam (version 20 - 2D version with contours) | Babylon.js Playground
 
 https://playground.babylonjs.com/#H9BI2A
 
+# Uniform placement of planes in a cube
+
+Uniform placement of planes in a cube (Version 0) | Babylon.js Playground
+
+https://playground.babylonjs.com/#DY93OO
+
 # НЕЗАКОНЧЕНЫЕ ТЕМЫ PYTHON
 
 lekhamironov92@yandex.ru
