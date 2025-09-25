@@ -247,6 +247,12 @@ https://playground.babylonjs.com/#ZH8ITM
 Quantum foam (version 22 - Quantum foam by stretching contours) | Babylon.js Playground
 
 https://playground.babylonjs.com/#IA39AU#1
+
+Quantum foam (version 23 - Cube per-instance version) | Babylon.js Playground
+
+https://playground.babylonjs.com/#LXDVZ1
+
+
 # Uniform placement of planes in a cube
 
 Uniform placement of planes in a cube (Version 0) | Babylon.js Playground
