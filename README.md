@@ -273,8 +273,6 @@ https://mashagpt.ru/chat/chatgpt-5-mini/2169177
 
 # ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ ЗВУКА
 
-https://mashagpt.ru/chat/chatgpt-5-mini/2898386
-
 https://mashagpt.ru/chat/chatgpt-5-mini/3117408
 
 # ЭГФ БЕСКОНЕЧНОЙ ГЕНЕРАЦИИ КАРТИНОК (ВСЕПАТЕРНАЛИЗАЦИЯ)
