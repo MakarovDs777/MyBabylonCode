@@ -228,6 +228,10 @@ Quantum foam (version 17 - Version 12 but balls, not a ragged mesh from the isur
 
 https://playground.babylonjs.com/#VTGJ93
 
+Quantum foam (version 17 - But all the balls are the same size) | Babylon.js Playground
+
+https://playground.babylonjs.com/#VTGJ93#1
+
 Quantum foam (version 18 - 2D version) | Babylon.js Playground
 
 https://playground.babylonjs.com/#MAZNI1
