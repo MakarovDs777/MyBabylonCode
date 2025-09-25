@@ -256,6 +256,10 @@ Quantum foam (version 23 - Cube per-instance version) | Babylon.js Playground
 
 https://playground.babylonjs.com/#LXDVZ1
 
+Quantum foam (version 24 - With a compressed space between the balls) | Babylon.js Playground
+
+https://playground.babylonjs.com/#8UD61L
+
 
 # Uniform placement of planes in a cube
 
