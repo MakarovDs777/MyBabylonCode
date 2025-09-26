@@ -264,6 +264,9 @@ Quantum foam (version 25 - Grid version) | Babylon.js Playground
 
 https://playground.babylonjs.com/#AQTPVM
 
+Quantum foam (version 26 - Dots version) | Babylon.js Playground
+
+https://playground.babylonjs.com/#R6940W
 
 # Uniform placement of planes in a cube
 
