@@ -260,6 +260,10 @@ Quantum foam (version 24 - With a compressed space between the balls) | Babylon.
 
 https://playground.babylonjs.com/#8UD61L
 
+Quantum foam (version 25 - Grid version) | Babylon.js Playground
+
+https://playground.babylonjs.com/#AQTPVM
+
 
 # Uniform placement of planes in a cube
 
