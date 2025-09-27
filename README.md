@@ -48,7 +48,7 @@ https://playground.babylonjs.com/#Y5MUY1
 
 Creating architecture 3D from a texture viewer (Makarov version 15 - Continuation of the 14 version with rotation plane) | Babylon.js Playground
 
-https://playground.babylonjs.com/#JBNQWT
+https://playground.babylonjs.com/#JBNQWT#2
 
 # ПРОЦЕДУРНЫЙ ГЕНЕРАТОР ЧИСЕЛ
 
