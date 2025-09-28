@@ -300,6 +300,10 @@ Quantum foam (version 29 - Grid + Dots) | Babylon.js Playground
 
 https://playground.babylonjs.com/#1C304V
 
+Quantum foam (version 30 - Quantum foam but for the place of dots OBJ) | Babylon.js Playground
+
+https://playground.babylonjs.com/#4PGFA1
+
 # Uniform placement of planes in a cube
 
 Uniform placement of planes in a cube (Version 0) | Babylon.js Playground
