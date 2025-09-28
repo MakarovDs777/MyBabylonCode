@@ -292,6 +292,14 @@ Quantum foam (version 27 - per-instance cubes, but with limited space between th
 
 https://playground.babylonjs.com/#VFXBHA
 
+Quantum foam (version 28 - per-instance cubes, but with smooth version) | Babylon.js Playground
+
+https://playground.babylonjs.com/#9S6I1Y
+
+Quantum foam (version 29 - Grid + Dots) | Babylon.js Playground
+
+https://playground.babylonjs.com/#1C304V
+
 # Uniform placement of planes in a cube
 
 Uniform placement of planes in a cube (Version 0) | Babylon.js Playground
