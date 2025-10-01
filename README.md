@@ -304,6 +304,10 @@ Quantum foam (version 30 - Quantum foam but for the place of dots OBJ) | Babylon
 
 https://playground.babylonjs.com/#4PGFA1
 
+Quantum foam (version 31 - Quantum foam + Backrooms but OBJ in random places) | Babylon.js Playground
+
+https://playground.babylonjs.com/#Y83ANH#1
+
 # Uniform placement of planes in a cube
 
 Uniform placement of planes in a cube (Version 0) | Babylon.js Playground
