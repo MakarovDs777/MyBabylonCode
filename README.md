@@ -316,6 +316,14 @@ Quantum foam (version 31 - Quantum foam + Backrooms but OBJ in random places) | 
 
 https://playground.babylonjs.com/#Y83ANH#1
 
+Quantum foam (version 32 - Chudik Compression) | Babylon.js Playground
+
+https://playground.babylonjs.com/#58FC78
+
+Quantum foam (version 33 - Chudik Compression + Spacing Compression) | Babylon.js Playground
+
+https://playground.babylonjs.com/#ITHGMO
+
 # Uniform placement of planes in a cube
 
 Uniform placement of planes in a cube (Version 0) | Babylon.js Playground
