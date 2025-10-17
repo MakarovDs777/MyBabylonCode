@@ -28,3 +28,6 @@
 
 [Endless sketchfab online on Babylon.js](https://github.com/MakarovDs777/Endless-sketchfab-online-on-Babylon.js)
 
+[Endless Painting on Babylon.js](https://github.com/MakarovDs777/Endless-Painting-on-Babylon.js)
+
+[Endless Lava Lamp on Babylon.js](https://github.com/MakarovDs777/Endless-Lava-Lamp)
