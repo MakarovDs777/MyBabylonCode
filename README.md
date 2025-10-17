@@ -31,3 +31,5 @@
 [Endless Painting on Babylon.js](https://github.com/MakarovDs777/Endless-Painting-on-Babylon.js)
 
 [Endless Lava Lamp on Babylon.js](https://github.com/MakarovDs777/Endless-Lava-Lamp)
+
+[Makarov retopology on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-on-Babylon.js)
