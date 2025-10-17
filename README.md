@@ -25,3 +25,6 @@
 [Quantum foam on Babylon.js! - Tutorials and tips - Babylon.js](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
 
 [Uniform placement of planes in a cube on Babylon.js!](https://github.com/MakarovDs777/Uniform-placement-of-planes-in-a-cube-on-Babylon.js)
+
+[Endless sketchfab online on Babylon.js](https://github.com/MakarovDs777/Endless-sketchfab-online-on-Babylon.js)
+
