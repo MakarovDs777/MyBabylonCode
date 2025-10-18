@@ -43,3 +43,6 @@
 []()
 
 [linking an image to the spotlight of an object on an object spotlights images projectors images](https://github.com/MakarovDs777/linking-an-image-to-the-spotlight-of-an-object-on-an-object-spotlights-images-projectors-images/blob/main/README.md)
+
+[GIF equalizer Makarov version on Babylon.js](https://github.com/MakarovDs777/GIF-equalizer-Makarov-version-on-Babylon.js/blob/main/README.md)
+
