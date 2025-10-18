@@ -62,4 +62,6 @@
 
 [My other Babylonjs codes](https://github.com/MakarovDs777/My-other-Babylonjs-codes/blob/main/README.md)
 
+[Endless chess online on Babylon.js](https://github.com/MakarovDs777/Endless-chess-online-on-Babylon.js/blob/main/README.md)
+
 [Different sets of images on Babylon.js](https://github.com/MakarovDs777/Different-sets-of-images-on-Babylon.js/blob/main/README.md)
