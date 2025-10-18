@@ -59,3 +59,7 @@
 [The estimneited structure generator online! OBJ download!](https://blenderartists.org/t/the-estimneited-structure-generator-online-obj-download/1612275)
 
 [View all URLs images on Babylon.js](https://github.com/MakarovDs777/View-all-URLs-images-on-Babylon.js/blob/main/README.md)
+
+[My other Babylonjs codes](https://github.com/MakarovDs777/My-other-Babylonjs-codes/blob/main/README.md)
+
+[Different sets of images on Babylon.js](https://github.com/MakarovDs777/Different-sets-of-images-on-Babylon.js/blob/main/README.md)
