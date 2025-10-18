@@ -40,7 +40,7 @@
 
 [Rearranging the cut mosaics of pictures in all ways on Babylon.js](https://github.com/MakarovDs777/Rearranging-the-cut-mosaics-of-pictures-in-all-ways-on-Babylon.js)
 
-[Uploading-the-model-via-the-button-on-Babylon.js/README.md at main · MakarovDs777/Uploading-the-model-via-the-button-on-Babylon.js](https://github.com/MakarovDs777/Uploading-the-model-via-the-button-on-Babylon.js/blob/main/README.md)
+[Uploading the model via the button on Babylon.js](https://github.com/MakarovDs777/Uploading-the-model-via-the-button-on-Babylon.js/blob/main/README.md)
 
 [linking an image to the spotlight of an object on an object spotlights images projectors images](https://github.com/MakarovDs777/linking-an-image-to-the-spotlight-of-an-object-on-an-object-spotlights-images-projectors-images/blob/main/README.md)
 
