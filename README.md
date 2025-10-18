@@ -65,3 +65,6 @@
 [Endless chess online on Babylon.js](https://github.com/MakarovDs777/Endless-chess-online-on-Babylon.js/blob/main/README.md)
 
 [Different sets of images on Babylon.js](https://github.com/MakarovDs777/Different-sets-of-images-on-Babylon.js/blob/main/README.md)
+
+[3D_cube_Chess_6_Player](https://github.com/MakarovDs777/3D_cube_Chess_6_Player)
+
