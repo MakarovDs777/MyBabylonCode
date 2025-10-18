@@ -33,3 +33,13 @@
 [Endless Lava Lamp on Babylon.js](https://github.com/MakarovDs777/Endless-Lava-Lamp)
 
 [Makarov retopology on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-on-Babylon.js)
+
+[Endless procedurally generated maps on Babylon.js](MakarovDs777/Endless-procedurally-generated-maps-on-Babylon.js)
+
+[Rearrangements of objects without repetitions and with repetitions on Babylon.js](https://github.com/MakarovDs777/Rearrangements-of-objects-without-repetitions-and-with-repetitions-on-Babylon.js)
+
+[Rearranging the cut mosaics of pictures in all ways on Babylon.js](https://github.com/MakarovDs777/Rearranging-the-cut-mosaics-of-pictures-in-all-ways-on-Babylon.js)
+
+[]()
+
+[linking an image to the spotlight of an object on an object spotlights images projectors images](https://github.com/MakarovDs777/linking-an-image-to-the-spotlight-of-an-object-on-an-object-spotlights-images-projectors-images/blob/main/README.md)
