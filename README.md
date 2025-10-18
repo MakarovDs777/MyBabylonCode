@@ -53,3 +53,5 @@
 [Automatic random camera movement on Babylon.js](https://github.com/MakarovDs777/Automatic-random-camera-movement-on-Babylon.js/blob/main/README.md)
 
 [Random Bezier curves on Babylon.js](https://github.com/MakarovDs777/Random-Bezier-curves-on-Babylon.js/blob/main/README.md)
+
+[The scatter addon is like in blender only on Babylon.js](https://github.com/MakarovDs777/The-scatter-addon-is-like-in-blender-only-on-Babylon.js-/blob/main/README.md)
