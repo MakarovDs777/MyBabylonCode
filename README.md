@@ -64,7 +64,7 @@
 
 [My other Babylonjs codes](https://github.com/MakarovDs777/My-other-Babylonjs-codes/blob/main/README.md)
 
-[Endless chess online on Babylon.js](https://github.com/MakarovDs777/Endless-chess-online-on-Babylon.js/blob/main/README.md)
+[Endless chess 3D online on Babylon.js](https://github.com/MakarovDs777/Endless-chess-3D-online-on-Babylon.js/blob/main/README.md)
 
 [Downloading the OBJ model button on Babylon.js](https://github.com/MakarovDs777/Downloading-the-OBJ-model-button-on-Babylon.js/blob/main/README.md)
 
