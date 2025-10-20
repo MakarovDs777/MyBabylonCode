@@ -36,7 +36,7 @@
 
 [Makarov retopology on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-on-Babylon.js)
 
-[Endless procedurally generated maps on Babylon.js](MakarovDs777/Endless-procedurally-generated-maps-on-Babylon.js)
+[Endless procedurally generated maps on Babylon.js](https://github.com/MakarovDs777/Endless-procedurally-generated-maps-on-Babylon.js)
 
 [Rearrangements of objects without repetitions and with repetitions on Babylon.js](https://github.com/MakarovDs777/Rearrangements-of-objects-without-repetitions-and-with-repetitions-on-Babylon.js)
 
