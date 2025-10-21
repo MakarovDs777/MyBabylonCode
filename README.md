@@ -73,3 +73,5 @@
 [3D_cube_Chess_6_Player](https://github.com/MakarovDs777/3D_cube_Chess_6_Player)
 
 [Disco Cube on Babylon.js](https://github.com/MakarovDs777/Disco-Cube-on-Babylon.js/blob/main/README.md)
+
+[Converter of a list of vertices and faces to a OBJ model on babylon.js](https://github.com/MakarovDs777/Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model-on-babylon.js/blob/main/README.md)
