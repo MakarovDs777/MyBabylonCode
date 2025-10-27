@@ -22,7 +22,7 @@
 
 [An endless procedurally generated carpet of pictures on Babylon.js!](https://github.com/MakarovDs777/An-endless-procedurally-generated-carpet-of-pictures-on-Babylon.js)
 
-[Endless backrooms in Babylon.js! - Tutorials and tips - Babylon.js](https://github.com/MakarovDs777/Endless-procedural-generation-of-backrooms-Makarov-version)
+[Endless-procedural-generation-of-backrooms-online-on-Babylon.js! - Tutorials and tips - Babylon.js](https://github.com/MakarovDs777/Endless-procedural-generation-of-backrooms-online-on-Babylon.js)
 
 [Quantum foam on Babylon.js! - Tutorials and tips - Babylon.js](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
 
