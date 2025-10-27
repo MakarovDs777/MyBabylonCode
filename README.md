@@ -6,13 +6,13 @@
 
 [Delaunay triangulation 3D on Babylon.js!](https://github.com/MakarovDs777/Delaunay-triangulation-3D-online-on-Babylon.js)
 
-[Lloyd relaxation on Babylon.js! - Tutorials and tips - Babylon.js](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js)
+[Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js)
 
 [Teleport on Babylon.js](https://github.com/MakarovDs777/Teleport-on-Babylon.js/blob/main/README.md)
 
 [Homer’s Endless Dream](https://github.com/MakarovDs777/Homer-s-Endless-Dream-on-Babylon.js)
 
-[3D Texture viewer - Demos and projects - Babylon.js](https://github.com/MakarovDs777/3D-Texture-viewer-online-on-Babylon.js-Makarov-version)
+[3D Texture viewer](https://github.com/MakarovDs777/3D-Texture-viewer-online-on-Babylon.js-Makarov-version)
 
 [Endless procedural image generation on Babylon.js!](https://github.com/MakarovDs777/Endless-procedural-image-generation-on-Babylon.js-)
 
@@ -24,7 +24,7 @@
 
 [Endless-procedural-generation-of-backrooms-online-on-Babylon.js!](https://github.com/MakarovDs777/Endless-procedural-generation-of-backrooms-online-on-Babylon.js)
 
-[Quantum foam on Babylon.js! - Tutorials and tips - Babylon.js](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
+[Quantum foam on Babylon.js!](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
 
 [Uniform placement of planes in a cube on Babylon.js!](https://github.com/MakarovDs777/Uniform-placement-of-planes-in-a-cube-on-Babylon.js)
 
