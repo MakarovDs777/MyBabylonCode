@@ -72,7 +72,7 @@
 
 [Different sets of images on Babylon.js](https://github.com/MakarovDs777/Different-sets-of-images-on-Babylon.js/blob/main/README.md)
 
-[3D_cube_chess_on Babylon.js](https://github.com/MakarovDs777/3D-cube-chess-on-Babylon.js)
+[3D cube chess on Babylon.js](https://github.com/MakarovDs777/3D-cube-chess-on-Babylon.js)
 
 [Disco Cube on Babylon.js](https://github.com/MakarovDs777/Disco-Cube-on-Babylon.js/blob/main/README.md)
 
