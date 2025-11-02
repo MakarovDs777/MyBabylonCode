@@ -78,4 +78,4 @@
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js](https://github.com/MakarovDs777/Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model-on-babylon.js/blob/main/README.md)
 
-[Uploading audio button on Babylon.js | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#1QKO0C)
+[Uploading audio button on Babylon.js](https://github.com/MakarovDs777/Uploading-Audio-button-on-Babylon.js/blob/main/README.md)
