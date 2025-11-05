@@ -22,7 +22,7 @@
 
 10) [An endless procedurally generated carpet of pictures on Babylon.js!](https://github.com/MakarovDs777/An-endless-procedurally-generated-carpet-of-pictures-on-Babylon.js)
 
-11) [Endless-procedural-generation-of-backrooms-online-on-Babylon.js!](https://github.com/MakarovDs777/Endless-procedural-generation-of-backrooms-online-on-Babylon.js)
+11) [Endless procedural generation of backrooms online on Babylon.js!](https://github.com/MakarovDs777/Endless-procedural-generation-of-backrooms-online-on-Babylon.js)
 
 12) [Quantum foam on Babylon.js!](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
 
@@ -84,4 +84,4 @@
 
 41) [My experiments with sound on babylon.js](https://github.com/MakarovDs777/My-experiments-with-sound-on-babylon.js)
 
-42) [Dragging-the-vertex-of-an-OBJ-as-in-edit-mode-in-blender-on-Babylon.js](https://github.com/MakarovDs777/Dragging-the-vertex-of-an-OBJ-as-in-edit-mode-in-blender-on-Babylon.js/blob/main/README.md)
+42) [Dragging the vertex of an OBJ as in edit mode in blender on Babylon.js](https://github.com/MakarovDs777/Dragging-the-vertex-of-an-OBJ-as-in-edit-mode-in-blender-on-Babylon.js/blob/main/README.md)
