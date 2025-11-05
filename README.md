@@ -8,8 +8,6 @@
 
 [Teleport on Babylon.js](https://github.com/MakarovDs777/Teleport-on-Babylon.js/blob/main/README.md)
 
-[XYZ sitesticks Virtual Joystick on Babylon.js Makarov version](https://github.com/MakarovDs777/XYZ-sitesticks-Virtual-Joystick-on-Babylon.js-Makarov-version)
-
 [Homer’s Endless Dream](https://github.com/MakarovDs777/Homer-s-Endless-Dream-on-Babylon.js)
 
 [3D Texture viewer](https://github.com/MakarovDs777/3D-Texture-viewer-online-on-Babylon.js-Makarov-version)
@@ -19,6 +17,8 @@
 [Array of objects in a circle as in blender on babylon.js!](https://github.com/MakarovDs777/Array-of-objects-in-a-circle-as-in-blender-on-babylon.js)
 
 [Creating architecture from a picture! Turn an image into an structure (Makarov version)](https://github.com/MakarovDs777/Creating-architecture-from-a-picture-online-Turn-an-image-into-an-structure-Makarov-version)
+
+[XYZ sitesticks Virtual Joystick on Babylon.js Makarov version](https://github.com/MakarovDs777/XYZ-sitesticks-Virtual-Joystick-on-Babylon.js-Makarov-version)
 
 [An endless procedurally generated carpet of pictures on Babylon.js!](https://github.com/MakarovDs777/An-endless-procedurally-generated-carpet-of-pictures-on-Babylon.js)
 
