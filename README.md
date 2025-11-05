@@ -83,3 +83,5 @@
 40) [Uploading audio button on Babylon.js](https://github.com/MakarovDs777/Uploading-Audio-button-on-Babylon.js/blob/main/README.md)
 
 41) [My experiments with sound on babylon.js](https://github.com/MakarovDs777/My-experiments-with-sound-on-babylon.js)
+
+42) [Dragging-the-vertex-of-an-OBJ-as-in-edit-mode-in-blender-on-Babylon.js](https://github.com/MakarovDs777/Dragging-the-vertex-of-an-OBJ-as-in-edit-mode-in-blender-on-Babylon.js/blob/main/README.md)
