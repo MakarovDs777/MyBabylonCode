@@ -2,11 +2,11 @@
 
 Одна сука под никнеймом Deltakosh на forum.babylonjs.com удалила мой аккаунт со всеми темами к счастью площадки babylon.playground остались, и пришлось скорпулёзно заново собирать всю эту мозаику по памяти целый день искать кусочки babylon.search все площадки, и это всё просто из-за того что писал много тем ну ахуеть просто, и самое главное что теперь ещё и половина кодов не работает из-за обновления инспектора!!! Теперь все темы которые были на этом форуме на моём github:
 
-[Delaunay triangulation 3D on Babylon.js!](https://github.com/MakarovDs777/Delaunay-triangulation-3D-online-on-Babylon.js)
+1)[Delaunay triangulation 3D on Babylon.js!](https://github.com/MakarovDs777/Delaunay-triangulation-3D-online-on-Babylon.js)
 
-[Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js)
+2)[Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js)
 
-[Teleport on Babylon.js](https://github.com/MakarovDs777/Teleport-on-Babylon.js/blob/main/README.md)
+3)[Teleport on Babylon.js](https://github.com/MakarovDs777/Teleport-on-Babylon.js/blob/main/README.md)
 
 [Homer’s Endless Dream](https://github.com/MakarovDs777/Homer-s-Endless-Dream-on-Babylon.js)
 
