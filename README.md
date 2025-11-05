@@ -8,6 +8,8 @@
 
 [Teleport on Babylon.js](https://github.com/MakarovDs777/Teleport-on-Babylon.js/blob/main/README.md)
 
+[XYZ sitesticks Virtual Joystick on Babylon.js Makarov version](https://github.com/MakarovDs777/XYZ-sitesticks-Virtual-Joystick-on-Babylon.js-Makarov-version)
+
 [Homer’s Endless Dream](https://github.com/MakarovDs777/Homer-s-Endless-Dream-on-Babylon.js)
 
 [3D Texture viewer](https://github.com/MakarovDs777/3D-Texture-viewer-online-on-Babylon.js-Makarov-version)
