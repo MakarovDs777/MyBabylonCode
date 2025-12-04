@@ -87,3 +87,5 @@
 42) [Dragging the vertex of an OBJ as in edit mode in blender on Babylon.js](https://github.com/MakarovDs777/Dragging-the-vertex-of-an-OBJ-as-in-edit-mode-in-blender-on-Babylon.js/blob/main/README.md)
 
 43) [Makarov retopology game on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-game-on-Babylon.js)
+
+44) [Exploding OBJ into pieces on Babylon.js](https://github.com/MakarovDs777/Exploding-OBJ-into-pieces-on-Babylon.js/blob/main/README.md)
