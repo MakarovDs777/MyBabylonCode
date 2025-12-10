@@ -89,3 +89,5 @@
 43) [Makarov retopology game on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-game-on-Babylon.js)
 
 44) [Exploding OBJ into pieces on Babylon.js](https://github.com/MakarovDs777/Exploding-OBJ-into-pieces-on-Babylon.js/blob/main/README.md)
+
+45) [Random-video-generator-on-Babylon.js/README.md at main · MakarovDs777/Random-video-generator-on-Babylon.js](https://github.com/MakarovDs777/Random-video-generator-on-Babylon.js/blob/main/README.md)
