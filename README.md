@@ -58,7 +58,7 @@
 
 28) [Random Bezier curves on Babylon.js](https://github.com/MakarovDs777/Random-Bezier-curves-on-Babylon.js/blob/main/README.md)
 
-29) [The scatter addon is like in blender only on Babylon.js](https://github.com/MakarovDs777/The-scatter-addon-is-like-in-blender-only-on-Babylon.js-/blob/main/README.md)
+29) [The scatter addon is like in blender only on Babylon.js](https://github.com/MakarovDs777/The-scatter-addon-is-like-in-blender-only-on-Babylon.js)
 
 30) [The estimneited structure generator online! OBJ download!](https://blenderartists.org/t/the-estimneited-structure-generator-online-obj-download/1612275)
 
