@@ -95,3 +95,5 @@
 46) [My other Babylonjs codes](https://github.com/MakarovDs777/My-other-Babylonjs-codes/blob/main/README.md)
 
 47) [Rearranging the cut mosaics of pictures in all ways on Babylon.js](https://github.com/MakarovDs777/Random-symbols-on-the-plane-on-Babylon.js/blob/main/README.md)
+
+48) [Random symbols on the plane on Babylon.js](https://github.com/MakarovDs777/Random-symbols-on-the-plane-on-Babylon.js/blob/main/README.md)
