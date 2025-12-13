@@ -1,8 +1,8 @@
 # Все мои версии тем на Babylon.js 
 
-Одна сука под никнеймом Deltakosh на forum.babylonjs.com удалила мой аккаунт со всеми темами к счастью площадки babylon.playground остались, и пришлось скорпулёзно заново собирать всю эту мозаику по памяти целый день искать кусочки babylon.search все площадки, и это всё просто из-за того что писал много тем ну ахуеть просто, и самое главное что теперь ещё и половина кодов не работает из-за обновления инспектора!!! Теперь все темы которые были на этом форуме на моём github:
+Все работы мои могут использолваться всеми как они хотят... Одна сука под никнеймом Deltakosh на forum.babylonjs.com удалила мой аккаунт со всеми темами к счастью площадки babylon.playground остались, и пришлось скорпулёзно заново собирать всю эту мозаику по памяти целый день искать кусочки babylon.search все площадки, и это всё просто из-за того что писал много тем ну ахуеть просто, и самое главное что теперь ещё и половина кодов не работает из-за обновления инспектора!!! Теперь все темы которые были на этом форуме на моём github:
 
-1) [Delaunay triangulation 3D on Babylon.js!](https://github.com/MakarovDs777/Delaunay-triangulation-3D-online-on-Babylon.js)
+1) [Endless procedural generation of backrooms online on Babylon.js!](https://github.com/MakarovDs777/Endless-procedural-generation-of-backrooms-online-on-Babylon.js)
 
 2) [Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js)
 
@@ -22,7 +22,7 @@
 
 10) [An endless procedurally generated carpet of pictures on Babylon.js!](https://github.com/MakarovDs777/An-endless-procedurally-generated-carpet-of-pictures-on-Babylon.js)
 
-11) [Endless procedural generation of backrooms online on Babylon.js!](https://github.com/MakarovDs777/Endless-procedural-generation-of-backrooms-online-on-Babylon.js)
+11) [Delaunay triangulation 3D on Babylon.js!](https://github.com/MakarovDs777/Delaunay-triangulation-3D-online-on-Babylon.js)
 
 12) [Quantum foam on Babylon.js!](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
 
