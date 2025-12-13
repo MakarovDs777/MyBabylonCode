@@ -99,3 +99,5 @@
 48) [Random symbols on the plane on Babylon.js](https://github.com/MakarovDs777/Random-symbols-on-the-plane-on-Babylon.js/blob/main/README.md)
 
 49) [Endless procedurally generated podiums on Babylon.js](https://github.com/MakarovDs777/Endless-procedurally-generated-podiums-on-Babylon.js)
+
+50) [Random wallpaper generator on Babylon.js](https://github.com/MakarovDs777/Random-wallpaper-generator-on-Babylon.js)
